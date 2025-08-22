@@ -60,7 +60,7 @@
 
 ---
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&width=435&lines=🚀+Featured+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&width=435&lines=Featured+Projects" alt="Typing SVG" />
 </a>
 
 <p align="center">
