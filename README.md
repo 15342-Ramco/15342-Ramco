@@ -70,7 +70,7 @@
   </a>  
   <br>
   🔹 Built & deployed an ML model to predict house prices.  
-  🔹 Features: **data preprocessing, model training, Flask API, deployment**.  
+  🔹 Features: data preprocessing, model training, Flask API, deployment.  
   🔹 Hosted live for real-time predictions.  
 
 </p>
@@ -83,7 +83,7 @@
     <img src="https://img.shields.io/badge/PowerBI-Dashboards-yellow?style=for-the-badge&logo=powerbi&logoColor=black" />
   </a>  
   <br>
-  🔹 Designed **7+ interactive dashboards**.  
+  🔹 Designed 7+ interactive dashboards.  
   🔹 Insights: sales trends, customer segmentation, KPI drilldowns.  
   🔹 Helped drive **data-driven business decisions**.  
 
