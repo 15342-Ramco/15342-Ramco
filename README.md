@@ -85,7 +85,7 @@
   <br>
   🔹 Designed 7+ interactive dashboards.  
   🔹 Insights: sales trends, customer segmentation, KPI drilldowns.  
-  🔹 Helped drive **data-driven business decisions**.  
+  🔹 Helped drive data-driven business decisions.  
 
 </p>
 
@@ -105,7 +105,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=15342-Ramco &theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=15342-Ramco &theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=15342-Ramco &theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=15342-Ramco&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=15342-Ramco &theme=radical" />
 </p>
 
 ---
