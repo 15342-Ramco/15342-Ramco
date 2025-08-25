@@ -14,7 +14,7 @@
   </a>
 </h2>
 
----
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&width=435&lines=About+Me" alt="Typing SVG" />
 </a>
@@ -39,7 +39,6 @@
 </p>
 
 
----
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&width=435&lines=Tech+Stack" alt="Typing SVG" /></a>
 
@@ -47,7 +46,6 @@
   <img src="https://skillicons.dev/icons?i=python,selenium,sklearn,flask,html,css,mysql,mongodb,git,github,vscode,aws,jenkins,powershell&theme=dark" />
 </p>
 
----
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&width=435&lines=Skills" alt="Typing SVG" /></a>
 
@@ -58,7 +56,7 @@
   <img src="https://img.shields.io/badge/SQL-Strong-red?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
----
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&width=435&lines=Featured+Projects" alt="Typing SVG" />
 </a>
@@ -74,8 +72,6 @@
   🔹 Hosted live for real-time predictions.  
 
 </p>
-
----
 
 <p align="center">
   
@@ -98,9 +94,8 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=15342-Ramco&layout=compact&theme=radical" />
 </p>
 
----
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&width=435&lines=Contribution+Graph" alt="Typing SVG" /></a>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=15342-Ramco&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=15342-Ramco&theme=radical" />
@@ -108,13 +103,15 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=15342-Ramco&theme=radical" />
 </p>
 
----
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&width=435&lines=GitHub+Trophies" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&width=435&lines=Contribution+Graph" alt="Typing SVG" />
+</a>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=15342-Ramco&theme=dracula&margin-w=15&margin-h=15&no-frame=true&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=15342-Ramco&theme=radical&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
----
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&width=435&lines=Connect+With+Me" alt="Typing SVG" /></a>
 <p align="center">
@@ -123,7 +120,7 @@
   <a href="mailto:mohamedshathiq18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email"/></a>
 </p>
 
----
+
 
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&width=435&lines=Thank+You+for+Visiting" alt="Typing SVG" /></a>
