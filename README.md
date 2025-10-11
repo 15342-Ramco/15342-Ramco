@@ -60,16 +60,41 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&width=435&lines=Featured+Projects" alt="Typing SVG" />
 </a>
-
 <p align="center">
   
-  <a href="https://github.com/15342-Ramco/ML_Project_Model_Deployment">
+  <a href="https://ml-project-model-deployment-6.onrender.com/">
     <img src="https://img.shields.io/badge/Machine%20Learning-House%20Price%20Prediction-blue?style=for-the-badge&logo=python&logoColor=white" />
   </a>  
   <br>
   🔹 Built & deployed an ML model to predict house prices.  
   🔹 Features: data preprocessing, model training, Flask API, deployment.  
   🔹 Hosted live for real-time predictions.  
+  🔹 <a href="https://ml-project-model-deployment-6.onrender.com/">Live</a>  
+
+</p>
+
+
+<p align="center">
+  
+  <a href="https://mohamedsha-llma-chatbot.hf.space/">
+    <img src="https://img.shields.io/badge/Conversational%20AI-Chatbot%20(Meta--Llama--3--8B)-green?style=for-the-badge&logo=huggingface&logoColor=white" />
+  </a>  
+  <br>
+  🔹 Built & deployed an AI-powered chatbot using <b>Meta-Llama-3-8B</b> via Hugging Face.  
+  🔹 Implemented prompt engineering & orchestration for optimized real-time responses.  
+  🔹 <a href="https://mohamedsha-llma-chatbot.hf.space/">Live</a>  
+
+</p>
+
+<p align="center">
+  
+  <a href="https://job-recommender-frontend.onrender.com/">
+    <img src="https://img.shields.io/badge/AI--Powered%20Job%20Recommendation-Platform-orange?style=for-the-badge&logo=fastapi&logoColor=white" />
+  </a>  
+  <br>
+  🔹 Developed full-stack app using <b>FastAPI (backend)</b> & <b>Flask (frontend)</b>.  
+  🔹 Containerized with Docker & deployed on Render for skill-based job matching.  
+  🔹 <a href="https://job-recommender-frontend.onrender.com/">Live</a> | <a href="https://job-recommender-fastapi-flask.onrender.com/docs">API Docs</a> | <a href="https://job-recommender-fastapi-flask.onrender.com/redoc">Redoc</a>  
 
 </p>
 
@@ -81,10 +106,10 @@
   <br>
   🔹 Designed 7+ interactive dashboards.  
   🔹 Insights: sales trends, customer segmentation, KPI drilldowns.  
-  🔹 Helped drive data-driven business decisions.  
+  🔹 Helped drive data-driven business decisions. 
+  🔹 <a href="https://app.powerbi.com/view?r=eyJrIjoiMTJjYjk3YmMtYTViMi00OGEyLWJhMmQtNmE1Y2FjNzFhN2ZmIiwidCI6ImU2YWIyZWYwLTFiNjYtNGYxZS1iM2JkLWRiMWJhZmNjZDhiMyJ9&pageName=ReportSection">Live</a>  
 
 </p>
-
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&width=435&lines=GitHub+Stats" alt="Typing SVG" /></a>
 
