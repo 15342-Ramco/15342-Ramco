@@ -43,7 +43,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&width=435&lines=Tech+Stack" alt="Typing SVG" /></a>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,selenium,sklearn,flask,html,css,mysql,mongodb,git,github,vscode,aws,jenkins,powershell&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,postman,docker,selenium,sklearn,flask,html,css,mysql,mongodb,git,github,vscode,aws,jenkins,powershell&theme=dark" />
 </p>
 
 
