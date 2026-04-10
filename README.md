@@ -34,7 +34,7 @@
 <p align="left">
   🌍 Currently in <b>Dubai, UAE (Visit Visa from Sept 15)</b><br>
   📧 <a href="mailto:mohamedshathiq18@gmail.com">Email Me</a> | 
-  🔗 <a href="https://linkedin.com/in/mohamed-shathik-723a2216b">LinkedIn</a> | 
+  🔗 <a href="https://linkedin.com/in/mohamed-shathik-u-i-723a2216b">LinkedIn</a> | 
   🌐 <a href="https://shathik.lovable.app/">Portfolio</a>
 </p>
 
@@ -117,18 +117,18 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&width=435&lines=GitHub+Stats" alt="Typing SVG" /></a>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=15342-Ramco&show_icons=true&theme=radical&count_private=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=15342-Ramco&theme=radical" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=15342-Ramco&layout=compact&theme=radical" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Shathik-U-I&show_icons=true&theme=radical&count_private=true" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Shathik-U-I&theme=radical" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Shathik-U-I&layout=compact&theme=radical" />
 </p>
 
 
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=15342-Ramco&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=15342-Ramco&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=15342-Ramco&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=15342-Ramco&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohamed-Shathik-U-I&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohamed-Shathik-U-I&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohamed-Shathik-U-I&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mohamed-Shathik-U-I&theme=radical" />
 </p>
 
 
@@ -137,14 +137,14 @@
 </a>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=15342-Ramco&theme=radical&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Shathik-U-I&theme=radical&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&width=435&lines=Connect+With+Me" alt="Typing SVG" /></a>
 <p align="center">
   <a href="https://github.com/15342-Ramco"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub"/></a>
-  <a href="https://linkedin.com/in/mohamed-shathik-723a2216b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/mohamed-shathik-u-i-723a2216b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"/></a>
   <a href="mailto:mohamedshathiq18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email"/></a>
 </p>
 
